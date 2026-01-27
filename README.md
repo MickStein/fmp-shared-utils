@@ -2,8 +2,6 @@
 
 Repo for the Flood map for planning (FMP) services shared utilities. This has been created for simple project setup and reducing duplicate code shared across the service.
 
-# Flood Map for Planning (FMP) App Front end application
-
 This repository is part of the FMP service which also includes:\
 <https://github.com/DEFRA/fmp-riskadmin-api> - checks for holding comments and intersections\
 <https://github.com/DEFRA/fmp-app> frontend service \
