@@ -1,6 +1,6 @@
 {
-  "name": "fmp-shared-utils",
-  "version": "1.0.0",
+  "name": "@MickStein/fmp-shared-utils",
+  "version": "1.0.1",
   "description": "A package that holds shared functions for the FMP repositories",
   "license": "FMFP",
   "author": "FMFP Team",
